@@ -1,0 +1,11 @@
+{
+    "mongoURI": "mongodb+srv://devEdgar:SjJt1IqgaakRl5xe@cluster0.9vhzw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "server": [
+        {
+            "origin": "*",
+            "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
+            "preflightContinue": false,
+            "optionsSuccessStatus": 204
+        }
+    ] 
+}
